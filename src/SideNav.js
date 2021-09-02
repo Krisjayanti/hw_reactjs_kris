@@ -16,7 +16,7 @@ function NavSide(props)
     return (
         <>
             <div className="nm">
-                <h2>Nama Bank</h2>
+                <h2>Bank BRI</h2>
                 <button type="button"
                     onClick={toggleClass}
                     className="btn"
