@@ -1,5 +1,6 @@
 import { Row, Col } from "react-bootstrap";
 
+
 function DaftarPengajuan (props) {
     return(
         <table className="table table-bordered table-striped table-hover">
