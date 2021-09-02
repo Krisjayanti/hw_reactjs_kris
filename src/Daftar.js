@@ -17,7 +17,7 @@ function DaftarPengajuan (props) {
                             <tbody>
                                 <tr>
                                     <th scope="row">1</th>
-                                    <td>8 JReact.Fragmenti 2021 10.00 WIB</td>
+                                    <td>8 Juli 2021 10.00 WIB</td>
                                     <td>Asep Sunandar</td>
                                     <td>Menunggu Persetujuan</td>
                                     <td>Tidak</td>
@@ -25,7 +25,7 @@ function DaftarPengajuan (props) {
                                 </tr>
                                 <tr>
                                     <th scope="row">2</th>
-                                    <td>5 JReact.Fragmenti 2021 13.00 WIB</td>
+                                    <td>5 Juli 2021 13.00 WIB</td>
                                     <td>Budi Rangga</td>
                                     <td>Disetujui</td>
                                     <td>Setujui</td>
@@ -33,7 +33,7 @@ function DaftarPengajuan (props) {
                                 </tr>
                                 <tr>
                                     <th scope="row">3</th>
-                                    <td>18 JReact.Fragmenti 2021 14.00 WIB</td>
+                                    <td>18 Juni 2021 14.00 WIB</td>
                                     <td>Gayus Tambunan</td>
                                     <td>Ditolak</td>
                                     <td>Tidak</td>
